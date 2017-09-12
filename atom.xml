@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonbernardin.com/"/>
-  <updated>2017-09-11T03:32:18.255Z</updated>
+  <updated>2017-09-11T02:48:32.171Z</updated>
   <id>http://jasonbernardin.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>TestPost</title>
-    <link href="http://jasonbernardin.com/2017/09/10/TestPost/"/>
-    <id>http://jasonbernardin.com/2017/09/10/TestPost/</id>
-    <published>2017-09-11T03:31:18.000Z</published>
-    <updated>2017-09-11T03:32:18.255Z</updated>
-    
-    <content type="html"><![CDATA[<p>Ok here we go.  The first test post.  Let’s see how this will turn out.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Ok here we go.  The first test post.  Let’s see how this will turn out.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
